@@ -1,0 +1,33 @@
+/* :root {
+    --gradient: radial-gradient( circle farthest-corner at 83.7% 4.3%,  rgba(173,0,171,1) 0%, rgba(15,51,92,1) 90% );
+} */
+
+body {
+    height: 2000px;
+    /* background-image: var(--gradient); */
+    /* background-size: 200%; */
+    /* animation: gradient-animation 20s infinite alternate; */
+}
+
+/* @keyframes gradient-animation {
+    0% {
+      background-position: left;
+    }
+    
+    100% {
+      background-position: right;
+    }
+} */
+
+.jumbotron {
+    padding-top: 8rem;
+    background-color: #B6BBC4;
+}
+
+#projects {
+    background-color: #B6BBC4; 
+}
+
+section {
+    padding-top: 15rem;
+}
